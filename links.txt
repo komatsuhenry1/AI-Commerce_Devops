@@ -1,2 +1,2 @@
-link vídeo explicativo youtube: https://github.com/komatsuhenry1/gs_devops
-link repositório github:
+link vídeo explicativo youtube: https://www.youtube.com/watch?v=VOQHS6VXHTk&ab_channel=PedroSena
+link repositório github: https://github.com/komatsuhenry1/gs_devops
