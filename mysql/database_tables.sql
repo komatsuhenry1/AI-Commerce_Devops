@@ -1,3 +1,4 @@
+CREATE DATABASE AquaMarineTables;
 USE AquaMarineTables;
 
 CREATE TABLE CleaningEvent(
